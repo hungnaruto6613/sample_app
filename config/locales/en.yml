@@ -31,6 +31,7 @@
 
 en:
   hello: "Hello world"
+  book: "Ruby on Rails Tutorial"
   helpers:
     application_helper:
       title: "Ruby on Rails Tutorial Sample App"
@@ -43,3 +44,6 @@ en:
       help: "Help"
     contact:
       contact: "Contact"
+  users:
+    new:
+      title: "Sign up"
